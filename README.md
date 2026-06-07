@@ -1,3 +1,6 @@
+<img width="195" height="179" alt="1780825942664" src="https://github.com/user-attachments/assets/3bb76341-ef82-44d4-815d-1bfd18812d2f" />
+
+
 (szwego)WeChat Business Album (now upgraded to WeGo Album)** is a cloud-based content sharing and sales management platform designed for social commerce sellers, purchasing agents, wholesale distributors, and private-domain e-commerce businesses. By providing one-click content sharing, team cloud collaboration, and multi-platform distribution capabilities, it significantly improves product management efficiency.
 
 Key Features and Advantages
