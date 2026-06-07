@@ -62,3 +62,5 @@ szwego安卓手机APP下载链接：https://play.google.com/store/apps/details?i
 
 szwego苹果手机APP下载链接：https://apps.apple.com/cn/app/%E5%BE%AE%E8%B4%AD%E7%9B%B8%E5%86%8C/id1481740550
 
+<img width="195" height="179" alt="1780825942664" src="https://github.com/user-attachments/assets/96b4a24b-53f4-43de-bd32-0e8ede6dd3e8" />
+
